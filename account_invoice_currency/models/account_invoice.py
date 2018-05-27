@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # © 2004-2011 Pexego Sistemas Informáticos. (http://pexego.es)
 # © 2004-2011 Zikzakmedia S.L. (http://zikzakmedia.com)
 #             Jordi Esteve <jesteve@zikzakmedia.com>
